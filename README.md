@@ -13,15 +13,7 @@ General Info
 
 Model Architecture
 
-Model Summary
-
-Model Evaluation
-
 Technologies Used
-
-Acknowledgements
-
-Collaborators
 
 ## General Information
 
